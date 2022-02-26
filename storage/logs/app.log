@@ -1,0 +1,20 @@
+2022/02/13 16:32:33 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"info","message":"blog-service: test logger","time":1644741153398572000}
+2022/02/13 17:05:17 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"info","message":"blog-service: test logger","time":1644743117156967000}
+2022/02/13 17:07:12 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"info","message":"blog-service: test logger","time":1644743232321266000}
+2022/02/13 17:09:47 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"info","message":"blog-service: test logger","time":1644743387495114000}
+2022/02/15 22:07:43 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1644934063792159000}
+2022/02/15 22:12:04 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1644934324651810000}
+2022/02/16 22:51:58 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符","time":1645023118300345000}
+2022/02/16 22:51:58 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"svc.CreateTag err: Error 1054: Unknown column 'create_by' in 'field list'","time":1645023118304348000}
+2022/02/16 22:55:23 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符","time":1645023323073066000}
+2022/02/16 22:57:12 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符","time":1645023432227879000}
+2022/02/16 23:08:16 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为2个字符,State为必填字段","time":1645024096400191000}
+2022/02/16 23:08:37 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为2个字符,State为必填字段","time":1645024117001427000}
+2022/02/16 23:09:21 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为2个字符,State为必填字段","time":1645024161844084000}
+2022/02/16 23:10:12 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为2个字符,State为必填字段","time":1645024212300309000}
+2022/02/16 23:10:47 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为2个字符,State为必填字段","time":1645024247994910000}
+2022/02/16 23:11:05 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为2个字符,State为必填字段","time":1645024265163326000}
+2022/02/16 23:11:58 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为2个字符,State为必填字段","time":1645024318326259000}
+2022/02/16 23:16:29 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为2个字符","time":1645024589436104000}
+2022/02/16 23:21:30 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为2个字符,ModifiedBy长度必须至少为3个字符","time":1645024890130586000}
+2022/02/16 23:21:35 {"callers":["/Users/octane/go/src/blog-service/main.go: 26 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为2个字符","time":1645024895675113000}
